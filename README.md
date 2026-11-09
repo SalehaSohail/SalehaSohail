@@ -1,38 +1,35 @@
 # Hi, I'm Saleha 👋
 
-I'm an aspiring Software Engineer with an interest in full-stack web development, artificial intelligence, and machine learning.
+I'm an aspiring Software Engineer focused on full-stack web development, artificial intelligence, and machine learning.
 
-I enjoy building practical applications and exploring how software engineering and AI can work together.
+I enjoy building practical applications, solving real-world problems, and exploring how software engineering and AI can work together.
 
-## 🛠️ Technologies
+## Technical Skills
 
 **Web Development:** HTML, CSS, JavaScript, React, Node.js, Express.js, PostgreSQL
 
 **AI & Machine Learning:** Python, Machine Learning, RAG, LLMs, Streamlit
 
-**Currently Learning:** Full-stack web development and applied AI engineering
+**Currently Learning:** Full-stack web development and applied AI engineering.
 
-## 🌐 Web Development
+## Projects
 
-- [PERN Template](https://github.com/SalehaSohail/pern-template) — Starter template for full-stack applications using PostgreSQL, Express, React, and Node.js.
-- [Odin Recipes](https://github.com/SalehaSohail/odin-recipes) — A multi-page HTML recipe website built as part of The Odin Project.
+### Web Development
 
-## 🧠 AI & Machine Learning
+- **[PERN Template](https://github.com/SalehaSohail/pern-template)** — A starter template for building full-stack applications using PostgreSQL, Express.js, React, and Node.js.
+- **[Odin Recipes](https://github.com/SalehaSohail/odin-recipes)** — A multi-page HTML recipe website built as part of The Odin Project.
 
-- [PlotTwist AI](https://github.com/SalehaSohail/plottwist-ai) — An AI detective project exploring semantic search and document retrieval.
+### AI & Machine Learning
 
-## 🚀 AI-Powered Web Applications
+- **[PlotTwist AI](https://github.com/SalehaSohail/plottwist-ai)** — An AI detective project exploring semantic search, document retrieval, and retrieval-augmented question answering.
 
-- [CareerAI](https://github.com/SalehaSohail/CareerAI) — AI-powered career application featuring ML-based job ranking, RAG, and LLM-powered insights.
-- [Heart Disease Prediction Web App](https://github.com/SalehaSohail/machine-learning-heart-disease-webapp) — Streamlit application using machine learning models for heart disease prediction.
+### AI-Powered Applications
 
-## 📚 Currently Working On
+- **[CareerAI](https://github.com/SalehaSohail/CareerAI)** — An AI-powered career application featuring machine learning-based job ranking, RAG, and LLM-powered insights.
+- **[Heart Disease Prediction Web App](https://github.com/SalehaSohail/machine-learning-heart-disease-webapp)** — A Streamlit application for heart disease prediction using machine learning models.
 
-- Building full-stack applications through hands-on projects.
-- Improving my knowledge of React, backend development, and databases.
-- Exploring practical AI/ML engineering and AI-powered applications.
+## Currently Working On
 
-## 📫 Connect
-
-Feel free to explore my repositories and follow my development journey.
-
+- Building full-stack web applications through hands-on projects.
+- Strengthening my frontend, backend, and database development skills.
+- Exploring AI engineering, LLM applications, and practical machine learning systems.
